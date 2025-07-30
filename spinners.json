@@ -1288,10 +1288,10 @@
 	"dqpb": {
 		"interval": 100,
 		"frames": [
-			"d",
 			"q",
-			"p",
-			"b"
+			"o",
+			"d",
+			"o"
 		]
 	},
 	"weather": {
